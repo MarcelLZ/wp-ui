@@ -1,6 +1,6 @@
 # wp-ui
 
-[WIP]
+[WIP] You can see the progress on https://rodrigowp.github.io/wp-ui/
 
 ### Dependencies:
 
